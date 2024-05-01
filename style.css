@@ -1,0 +1,9 @@
+image{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+}
+body { 
+    background-color: brown;
+    color: chartreuse;
+}
